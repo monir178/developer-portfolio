@@ -1,9 +1,29 @@
-body{
+body {
     font-family: 'Noto Sans', sans-serif;
-} 
-h1{
+}
+
+h1 {
     font-size: 50px;
 }
-span{
+
+span {
     color: yellowgreen;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+
+.half-width img {
+    width: 70%;
+    padding: 20px;
+    margin-left: 40px;
 }
