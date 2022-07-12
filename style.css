@@ -27,3 +27,12 @@ section {
     padding: 20px;
     margin-left: 40px;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 15px 50px;
+    color: black;
+    font-weight: 800;
+    border-radius: 5px;
+}
