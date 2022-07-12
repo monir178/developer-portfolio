@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 span {
     color: yellowgreen;
 }
@@ -48,4 +52,30 @@ span {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.shadow {
+    box-shadow: 5px 10px 50px gray;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.last-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: unset;
+}
+
+#fsd {
+    border-left: 10px solid rgb(4, 85, 4);
+}
+
+#bwd {
+    border-left: 10px solid rgb(233, 126, 27);
+}
+
+footer p {
+    text-align: center;
 }
