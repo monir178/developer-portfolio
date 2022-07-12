@@ -11,9 +11,9 @@ span {
     color: yellowgreen;
 }
 
-section {
+.flexible-container {
     display: flex;
-    margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 .half-width {
